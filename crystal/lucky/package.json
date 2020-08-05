@@ -6,7 +6,7 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-preset-env": "^1.6.0",
     "browser-sync": "^2.18.13",
-    "brunch": "^2.10.10",
+    "brunch": "^3.0.0",
     "fingerprinter-brunch": "^0.0.2",
     "glob": "^7.1.2",
     "jquery": "^3.2.1",
