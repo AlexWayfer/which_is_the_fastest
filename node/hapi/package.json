@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "hapi": "~17.6.0"
+    "hapi": "~18.1.0"
   }
 }
